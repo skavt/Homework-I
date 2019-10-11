@@ -10,4 +10,3 @@ if (!move_uploaded_file($tempName, $filePath)) {
 }
 
 echo 'success';
-?>
